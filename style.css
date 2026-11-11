@@ -148,7 +148,7 @@ h2 em { font-size:1.08em; }
   opacity:.88;
   text-shadow:0 1px 5px #a77a3e35;
 }
-.dedication-note { margin:16px auto 0; font:italic 18px var(--old); color:#775f47; }
+.dedication-note { margin:16px auto 0; font:italic 30px var(--old); color:#775f47; }
 .dedication-card-wrap { display:flex; justify-content:center; }
 .letter-teaser {
   position:relative;

@@ -3,7 +3,7 @@ const people = {
     name: "Francesco",
     intro: "Un pensiero mio per il tuo compleanno.",
     photo: "",
-    letter: "Cara nonna, mi manca passare intere giornate da te come facevamo da piccoli: la piscina, il gelato e i viaggi in Calabria, con tante figure di merda e avventure mistiche. Ora, purtroppo, le cose sono cambiate: siamo cresciuti e gli impegni sono aumentati. Ti voglio tanto bene, ti auguro tutto il bene del mondo e mi piacerebbe passare pi\u00f9 tempo con te.",
+    letter: "Cara nonna, mi manca passare intere giornate da te, come facevamo da piccoli: andare in piscina, andare all'orto, prendere piccoli pulcini e coniglietti, giocare a casa tua con i legnetti, aspettare che finisse di piovere per poter stare fuori a scoppiare le bolle di sapone, tu che insisti per darci il gelato, andare nei boschi e i viaggi in Calabria, con tante figure, urla, litigate, bagni al mare, esaurimenti, caldo insopportabile e avventure mistiche. Ora, purtroppo, le cose sono cambiate: sono cresciuto, gli impegni sono aumentati e la scuola mi stanca. Detto questo Ti voglio tanto bene, Ti auguro tutto il bene del mondo e mi piacerebbe passare pi\u00f9 tempo con te.",
     sign: "Francesco"
   }
 };
