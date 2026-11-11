@@ -274,7 +274,7 @@ h2 em { font-size:1.08em; }
 .finale-content > p:not(.section-kicker) { margin:18px auto 0; font-size:20px; color:#d8c6a6; }
 .finale-flourish { font-size:36px; color:var(--gold-light); margin:22px 0; }
 .replay-button { margin-top:5px; background:transparent; border-color:#b9955d; }
-footer { min-height:72px; display:flex; align-items:center; justify-content:center; gap:22px; font:9px var(--old); letter-spacing:.22em; color:#c5a979; }
+footer { min-height:72px; display:flex; align-items:center; justify-content:center; gap:22px; font:20px var(--old); letter-spacing:.22em; color:#c5a979; }
 footer span:nth-child(2) { font-size:15px; }
 .modal { position:fixed; inset:0; z-index:30; display:grid; place-items:center; padding:24px; visibility:hidden; opacity:0; transition:opacity .35s,visibility .35s; }
 .modal.is-open { visibility:visible;opacity:1; }
